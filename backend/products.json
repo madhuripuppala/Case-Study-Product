@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "category": "Electronics",
+    "price": 79.99,
+    "description": "Premium noise-cancelling wireless headphones with 30-hour battery life"
+  },
+  {
+    "id": 2,
+    "name": "USB-C Cable",
+    "category": "Accessories",
+    "price": 12.99,
+    "description": "High-quality USB-C to USB-C charging and data cable, 2 meters"
+  },
+  {
+    "id": 3,
+    "name": "Mechanical Keyboard",
+    "category": "Peripherals",
+    "price": 149.99,
+    "description": "RGB mechanical keyboard with customizable switches"
+  },
+  {
+    "id": 4,
+    "name": "Portable Power Bank",
+    "category": "Accessories",
+    "price": 34.99,
+    "description": "20000mAh portable power bank with fast charging support"
+  },
+  {
+    "id": 5,
+    "name": "4K Webcam",
+    "category": "Electronics",
+    "price": 89.99,
+    "description": "Crystal clear 4K resolution webcam with auto-focus and built-in microphone"
+  },
+  {
+    "id": 6,
+    "name": "Phone Stand",
+    "category": "Accessories",
+    "price": 15.99,
+    "description": "Adjustable aluminum phone stand for all devices"
+  },
+  {
+    "id": 7,
+    "name": "Laptop Stand",
+    "category": "Office Supplies",
+    "price": 44.99,
+    "description": "Ergonomic laptop stand to reduce neck strain"
+  },
+  {
+    "id": 8,
+    "name": "Mouse Pad",
+    "category": "Peripherals",
+    "price": 24.99,
+    "description": "Large non-slip mouse pad with gaming-grade surface"
+  }
+]
