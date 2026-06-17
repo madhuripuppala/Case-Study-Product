@@ -378,13 +378,15 @@ GET /health
 - Analytics and tracking
 - Multi-language support
 
-## License
+## Application Screenshots
 
-ISC - See LICENSE file for details
+### Home Page
+![Home Page](Homepage.png)
 
-## Support
+### Search Results
+![Search Results](Search-Product.png)
 
-For issues or questions, please refer to the documentation or check the console for error messages.
+### Sorting
+![Sorting](filtering-prod.png)
 
----
 
